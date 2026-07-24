@@ -1,56 +1,69 @@
 # 👋 Salut, je suis Jubishop02
+## 🛡️ Reconversion Gendarmerie → Analyste SOC / Blue Team
 
-## 🛡️ Reconversion Gendarmerie → Cybersécurité
+Après 16 ans dans la gendarmerie (PSPG, PSIG, PIGM, Peloton Autoroutier), je me reconvertis dans la **cybersécurité défensive**.
 
-Après 16 ans dans la gendarmerie (PSPG, PSIG, PIGM, Peloton Autoroute), je me reconvertis dans la **cybersécurité**.
-
-Mon objectif : devenir **Analyste SOC** ou **Pentester Junior** d'ici mars 2027.
+Mon objectif : devenir **Analyste SOC** d'ici 2027-2028.
 
 ---
 
 ## 🎯 Actuellement
 
-- 🔐 Préparation **CompTIA Security+** (passage juin 2026)
-- 🎓 Formation **TryHackMe Jr Penetration Tester Path**
-- 📝 Construction de mon portfolio de writeups
+- 🔐 Préparation **CompTIA Security+**
+- 🎓 Formation **TryHackMe SOC Level 1**
+- 🏗️ Construction d'un **lab SIEM Wazuh** personnel
+- 📝 Documentation de mon lab sur ce portfolio
 
 ---
 
-## 🔧 Compétences techniques en développement
+## 🔧 Compétences techniques
+
+**SIEM & Monitoring**
+- Wazuh (déploiement, configuration, agents)
+- OpenSearch / Dashboards
+- Analyse de logs et alertes
+- Détection de vulnérabilités (CVE)
 
 **Systèmes & Réseaux**
-- Linux (Kali, Ubuntu)
-- Windows (Active Directory)
-- TCP/IP, DNS, protocoles réseau
+- Linux (Ubuntu, Debian, Kali)
+- Windows (Active Directory, GPO)
+- TCP/IP, DNS, protocoles réseaux
+- VirtualBox (virtualisation)
 
-**Outils Pentesting**
-- Nmap, Gobuster, Burp Suite
-- Metasploit Framework
-- Wireshark, Netcat
+**Outils Blue Team**
+- Wireshark (analyse réseau)
+- Nmap (reconnaissance réseau)
+- REMnux (analyse de malware)
+- Wazuh (XDR / SIEM)
 
 **Langages**
-- Python (scripts d'automatisation)
 - Bash scripting
-- HTML/CSS (bases web)
+- Python (bases)
 
 ---
 
-## 📜 Certifications visées
+## 📜 Certifications
 
-- 🎓 **CompTIA Security+** (Q2 2026)
-- 🎓 **PNPT** (Q3 2026)
-- 🎓 **eJPT** (optionnel)
+- 🎓 **CompTIA Security+** (en cours — Q2 2026)
+- 🎓 **Wazuh Certified Engineer** (objectif 2026)
+- 🎓 **Blue Team Labs** (objectif 2027)
 
 ---
 
 ## 📁 Mes projets
 
-### 🔐 Cybersecurity Portfolio
-→ [cybersecurity-portfolio](https://github.com/Jubishop02/cybersecurity-portfolio) - Writeups THM/HTB & scripts
+### 🛡️ Lab SIEM Blue Team
+→ [cybersecurity-portfolio/lab-siem-blueteam](https://github.com/Jubishop02/cybersecurity-portfolio/tree/main/lab-siem-blueteam)
 
-### 🌐 Anciens projets web (reconversion initiale)
-- [max-billiot](https://github.com/Jubishop02/max-billiot)
-- [site-web-jardideal76](https://github.com/Jubishop02/site-web-jardideal76)
+Lab personnel complet :
+- SIEM Wazuh 4.14.4 déployé sur Ubuntu 24.04
+- Agents sur Debian 13, Windows Server 2025, Windows 10 Pro
+- Active Directory (domaine premierAD.com)
+- Détection de vulnérabilités et d'attaques
+
+### 📝 Writeups TryHackMe
+→ [cybersecurity-portfolio](https://github.com/Jubishop02/cybersecurity-portfolio)
+*(En cours de construction)*
 
 ---
 
@@ -63,22 +76,7 @@ Mon objectif : devenir **Analyste SOC** ou **Pentester Junior** d'ici mars 2027.
 ## 💪 De la gendarmerie à la cyber
 
 **16 ans d'expérience** en unités opérationnelles :
-- ✅ Rigueur & respect des procédures
+- ✅ Rigueur & respect des procédures (ISO 27001, ANSSI)
 - ✅ Gestion de crise & décisions sous pression
-- ✅ Analyse de menaces & évaluation risques
-- ✅ Travail en équipe sur missions sensibles
-
-Ces compétences s'appliquent parfaitement à la cybersécurité.
-
----
-
-## 📫 Contact
-
-- 📧 Email : [gazeaux.julien@gmail.com]
-- 💼 LinkedIn : www.linkedin.com/in/julien-g-a000b399
-
----
-
-**"De la sécurité physique à la sécurité numérique - même mission, nouveaux outils."**
-
-*Portfolio en construction active - mise à jour régulière*
+- ✅ Analyse de menaces & évaluation des risques
+- ✅ Travail en équipe sur missions
