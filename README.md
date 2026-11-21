@@ -1,71 +1,34 @@
-# 👋 Salut, je suis Jubishop02
-## 🛡️ Reconversion Gendarmerie → Analyste SOC / Blue Team
+# Julien G. — Futur analyste SOC
 
-Après 16 ans dans la gendarmerie (PSPG, PSIG, PIGM, Peloton Autoroutier), je me reconvertis dans la **cybersécurité défensive**.
+Sous-officier de gendarmerie en activité (16 ans de terrain : intervention, sécurité, gestion de crise), en reconversion vers la **cybersécurité défensive**. Objectif : **analyste SOC / blue team**.
 
-Mon objectif : devenir **Analyste SOC** d'ici 2027-2028.
+## En ce moment
+- Préparation **CompTIA Security+**
+- Parcours **TryHackMe SOC Level 1**, puis SOC Level 2
+- Préparation **BTL1** (Blue Team Level 1, Security Blue Team)
+- Homelab de détection et d'investigation
 
----
+## Homelab (VMware Workstation, réseaux isolés)
+- **Lab Active Directory** : contrôleur de domaine Windows Server 2019, 2 postes Windows 11, serveur Wazuh (SIEM/EDR), GLPI (ITSM), Kali (attaquant)
+- **Lab Splunk** : pfSense, Splunk, contrôleur de domaine et poste client avec Sysmon + Universal Forwarder, jeu de données BOTS v1
 
-## 🎯 Actuellement
+## Compétences
+- **SIEM** : Wazuh, Splunk (SPL en apprentissage)
+- **Systèmes** : Windows (Active Directory, GPO), Linux (Ubuntu, Debian, Kali)
+- **Réseau et analyse** : TCP/IP, DNS, Wireshark, Nmap
+- **Scripting** : Bash, Python (bases)
 
-- 🔐 Préparation **CompTIA Security+**
-- 🎓 Formation **TryHackMe SOC Level 1**
-- 🏗️ Construction d'un **lab SIEM Wazuh** personnel
-- 📝 Documentation de mon lab sur ce portfolio
+## Certifications
+- CompTIA Security+ — en préparation
+- BTL1 — en préparation
 
----
+## Atouts issus de la gendarmerie
+- Rigueur procédurale et rédaction (procès-verbaux, comptes rendus)
+- Gestion de crise et prise de décision sous pression
+- Travail en équipe et encadrement (gradé depuis 2022)
 
-## 🔧 Compétences techniques
-
-**SIEM & Monitoring**
-- Wazuh (déploiement, configuration, agents)
-- OpenSearch / Dashboards
-- Analyse de logs et alertes
-- Détection de vulnérabilités (CVE)
-
-**Systèmes & Réseaux**
-- Linux (Ubuntu, Debian, Kali)
-- Windows (Active Directory, GPO)
-- TCP/IP, DNS, protocoles réseaux
-- VirtualBox (virtualisation)
-
-**Outils Blue Team**
-- Wireshark (analyse réseau)
-- Nmap (reconnaissance réseau)
-- REMnux (analyse de malware)
-- Wazuh (XDR / SIEM)
-
-**Langages**
-- Bash scripting
-- Python (bases)
-
----
-
-## 📜 Certifications
-
-- 🎓 **CompTIA Security+** (en cours — Q2 2026)
-- 🎓 **Wazuh Certified Engineer** (objectif 2026)
-- 🎓 **Blue Team Labs** (objectif 2027)
-
----
-
-## 📁 Mes projets
-
-### 🛡️ Lab SIEM Blue Team
-→ [cybersecurity-portfolio/lab-siem-blueteam](https://github.com/Jubishop02/cybersecurity-portfolio/tree/main/lab-siem-blueteam)
-
-Lab personnel complet :
-- SIEM Wazuh 4.14.4 déployé sur Ubuntu 24.04
-- Agents sur Debian 13, Windows Server 2025, Windows 10 Pro
-- Active Directory (domaine premierAD.com)
-- Détection de vulnérabilités et d'attaques
-
-### 📝 Writeups TryHackMe
-→ [cybersecurity-portfolio](https://github.com/Jubishop02/cybersecurity-portfolio)
-*(En cours de construction)*
-
----
+## Me retrouver
+[COLLE ICI TES LIENS TRYHACKME ET LINKEDIN]
 
 ## 📊 Mes profils
 
