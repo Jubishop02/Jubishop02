@@ -28,9 +28,6 @@ Sous-officier de gendarmerie en activité (16 ans de terrain : intervention, sé
 - Travail en équipe et encadrement (gradé depuis 2022)
 
 ## Me retrouver
-[COLLE ICI TES LIENS TRYHACKME ET LINKEDIN]
-
-## 📊 Mes profils
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Jubishop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julien%20G-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julien-g-a000b399/)
